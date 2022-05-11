@@ -1,0 +1,48 @@
+body {
+	font-size: 20px;
+	font-family:  sans serif;
+	text-align: center;
+	background-color: #CFCFCF; 
+    }
+
+    #title {
+    	border: 5px;
+    }
+
+img {
+	width: 100%;
+	height: auto;
+    box-shadow: 5px 40px #ffffff;
+    border-radius: 5% 5% 5% 5%;
+}
+
+
+}
+
+#main { text-align: center; }
+
+ul {
+	max-width: 500px;
+	margin: 20px;
+	text-align: left;
+    display: inline-block;
+	background-color: white;
+	border-radius: 5% 5% 5% 5%;
+}
+
+li{max-width: 500px;
+	margin: 30px;}
+
+#cont {
+	text-align: center;
+}
+
+p {
+	max-width: 550px;
+	margin: 20px;
+	text-align: left;
+	display: inline-block;
+}
+footer {
+	background-color: white;
+}
